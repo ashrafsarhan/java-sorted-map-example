@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.jcg.util.map;
+package com.quantvalley;
 
 import java.util.Comparator;
 import java.util.HashMap;
